@@ -5,9 +5,9 @@
 <h3 align="center">AI Drug Discovery Researcher</h3>
 
 <p align="center">
-  
   AI Scientist | 데이터로 찾고, AI로 설계하고, 실험으로 증명하는 AI 신약개발 연구원 조승현입니다. 
 </p>
+
 
 <p align="center">
   M.S. in Medical Science (Drug Development), University of Ulsan<br/>
