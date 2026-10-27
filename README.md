@@ -5,12 +5,14 @@
 <h3 align="center">AI Drug Discovery Researcher</h3>
 
 <p align="center">
-  항암제 약물저항성을 실험대에서 연구한 경험 위에,<br/>
-  AI로 단백질과 항체를 설계하고 후보물질을 최적화해 실제 약이 되는 분자를 만들고자 하는 연구원 조승현입니다.
+  
+  AI Scientist | 데이터로 찾고, AI로 설계하고, 실험으로 증명하는 AI 신약개발 연구원 조승현입니다. 
 </p>
 
 <p align="center">
   M.S. in Medical Science (Drug Development), University of Ulsan<br/>
+  B.S. in Biomedical Science, University of Ulsan<br/>
+  Exchange Student. in Applied Biochemical Engineering, Warsaw of Technology, Poland<br/>
   <a href="mailto:hyeon2archive.dev@gmail.com">hyeon2archive.dev@gmail.com</a>
 </p>
 
@@ -30,7 +32,7 @@
 
 - 항체 기반 치료제: 항체약물접합체(ADC), 이중항체(bispecific antibody)
 - 표적단백질분해(TPD)와 mRNA 백신
-- 후보물질 발굴을 위한 분자구조 모델링(molecular modeling), 현재 학습을 시작한 단계입니다
+- 후보물질 발굴을 위한 분자구조 모델링(molecular modeling) by AlphaFold/ProteinMPNN - Currently exploring
 
 ## Tech Stack
 
