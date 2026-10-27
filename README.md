@@ -18,8 +18,8 @@
 
 ## About Me
 
-의과학(신약개발) 석사 과정에서 항암제 약물저항성(drug resistance)을 연구했습니다.
-지금은 생물학 연구 경험 위에 데이터 분석, 머신러닝, 소프트웨어 역량을 더해 AI 기반 신약개발(AI-aided drug discovery) 연구원으로 일하는 것을 목표로 공부하고 있습니다.
+의과학(신약개발) 석사 과정동안 R과 파이썬 기반 데이터 분석을 통해 항암제 약물저항성(drug resistance)을 연구했습니다.<br/>
+임상 연구 경험 위에 데이터 분석, ML/DL 역량을 더해 AI 기반 신약개발(AI-aided drug discovery) 연구원을 지향하며 공부하고 있습니다.
 
 ## Interests
 
